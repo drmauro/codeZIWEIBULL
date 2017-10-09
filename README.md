@@ -6,3 +6,9 @@ We describe here the code of the simulation study and the MLE approach for estim
 
 http://dx.doi.org/10.1080/03610926.2017.1346803 
 
+or here:
+
+https://www.researchgate.net/publication/305458068_A_zero-inflated_non-default_rate_regression_model_for_credit_scoring_data
+
+
+
