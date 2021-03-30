@@ -1,3 +1,5 @@
+# Mauro Ribeiro de Oliveira Junior
+
 rm(list=ls(all=TRUE))
 library(parallel)   #Library for PARALLEL Processing
 
